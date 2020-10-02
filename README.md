@@ -1,0 +1,2 @@
+# notion-journal-import
+this is mostly just a collection of my scripts to automate stuff on notion, im trying it out as my new jounraling and orginzational system but it does lack a few features, such as clear all trash and custom importing. they also dont have documentation for their api yet so i decided instead of reverse engineering it i'd just do gui automation. works well enough, i only needed it once anyway
